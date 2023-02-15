@@ -3,17 +3,22 @@
 body{
 	margin :0;
 }
-.container{
-		background-color:lightblue;
+.holder{
 	display: flex ;
 	flex-direction: row ;
 	 flex-wrap: wrap;
-justify-content:center;
-}
-.holder{
-	width:100px;
-	height:100px;
+    justify-content:center;
 	background-color:red;
 	margin:1px;
 	border:1px solid blue;
 }
+.item{
+    height:100px;
+	width :100px;
+}
+/* .holder{
+	background-color:green;
+  display: flex;
+  justify-content: center; 
+  align-items: center;
+} */
