@@ -7,9 +7,8 @@ body{
 		background-color:lightblue;
 	display: flex ;
  flex-direction: row;
-/*     flex-wrap: wrap; */
 flex-flow: row wrap ;
-    justify-content:center;
+justify-content:center;
 }
 .item{
 	width:100px;
