@@ -6,10 +6,20 @@ body{
 .container{
 		background-color:lightblue;
 	display: flex ;
- flex-direction: row;
-flex-flow: row wrap ;
+	 flex-wrap: wrap;
 justify-content:center;
 }
+
+/* .container {
+    padding: 20px;
+    background-color: blue ;
+    display: flex ; 
+    /* flex-direction: row ;
+    flex-wrap: wrap; */
+    /* flex-flow: row wrap ;
+/*     justify-content: space-around; */
+
+
 .holder{
 	width:100px;
 	height:100px;
