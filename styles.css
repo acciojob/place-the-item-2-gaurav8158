@@ -10,7 +10,7 @@ body{
 	 flex-wrap: wrap;
 justify-content:center;
 }
-holder{
+.holder{
 	width:100px;
 	height:100px;
 	background-color:red;
