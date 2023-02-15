@@ -10,7 +10,7 @@ body{
 flex-flow: row wrap ;
 justify-content:center;
 }
-.item{
+.holder{
 	width:100px;
 	height:100px;
 	background-color:red;
